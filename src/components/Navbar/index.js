@@ -36,9 +36,9 @@ const Navbar = () => {
                       <li>
                         <Link to="#">Ba công khai</Link>
                       </li>
-                      <li>
+                      {/* <li>
                         <Link to="/trainghiem">Trải nghiệm Đại học</Link>
-                      </li>
+                      </li> */}
                       <li>
                         <Link to="#">Liên hệ</Link>
                       </li>
